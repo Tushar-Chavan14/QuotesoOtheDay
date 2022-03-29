@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "value": "Inspire",
+    "label": "Inspire"
+  },
+  {
+    "id": 2,
+    "value": "Life",
+    "label": "Life"
+  },
+  {
+    "id": 3,
+    "value": "Sports",
+    "label": "Sports"
+  },
+  {
+    "id": 4,
+    "value": "Management",
+    "label": "Management"
+  },
+  {
+    "id": 5,
+    "value": "Students",
+    "label": "Students"
+  },
+  {
+    "id": 6,
+    "value": "Art",
+    "label": "Art"
+  },
+  {
+    "id": 7,
+    "value": "Love",
+    "label": "Love"
+  },
+  {
+    "id": 8,
+    "value": "Funny",
+    "label": "Funny"
+  }
+]
